@@ -1,0 +1,10 @@
+activate
+block
+decrease
+enhance
+increase
+inhibit
+mediate
+regulate
+secrete
+suppress
