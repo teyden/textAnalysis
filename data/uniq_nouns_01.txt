@@ -1,0 +1,50 @@
+
+alpha1-adrenergic receptor
+beta1-adrenergic receptor
+melatonin
+norepinephrine
+AANAT
+retina dopamine
+cortisol
+hypthalamus CRH
+stress aging
+hypthalamus CRH
+anterior pituitary ACTH
+adrenal cortex cortisol
+PMN elastase
+calpain
+alpha-1-antitrypsin
+alpha-2-macroglobulin
+cytochrome c
+resistin
+dopamine
+adiponectin
+leptin
+vasopressin
+prolactin
+dopamine prolactin
+oxytocin
+oxytocin prolactin
+initial stress amygdala
+adrenal glands
+adrenaline
+bloodstream glucose
+D1 dopamine receptor
+D2 dopamine receptor
+aging dopamine receptor
+food intake ghrelinaging dopamine levels
+food intake leptin
+leptin hunger response
+ghrelin somatostatin
+somatostatin
+gastric acid
+insulin
+insulin apoptosis
+aging elastin structure
+elastin
+food intake glucose
+aging food intake
+aging collagen structure
+collagen
+MMP collagen structure
+
